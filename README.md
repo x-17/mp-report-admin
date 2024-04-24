@@ -1,7 +1,7 @@
 ## mp-report-admin
-基于uni-app、uniCloud和uni-admin搭建的工作汇报小程序的后台管理系统。
-管理员功能：查看汇报内容、删除汇报内容、管理用户等。
-审计员：查看汇报内容 (暂时提供一个审计员账号，后期可能会关闭。账号test_auditor,密码:abcd1234)。
+基于uni-app、uniCloud和uni-admin搭建的工作汇报小程序的后台管理系统。<br>
+管理员功能：查看汇报内容、删除汇报内容、管理用户等。<br>
+审计员：查看汇报内容 (暂时提供一个审计员账号，后期可能会关闭。账号test_auditor,密码:abcd1234)。<br>
 
 ## uni-admin
 
